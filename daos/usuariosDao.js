@@ -1,4 +1,4 @@
-const Contenedor = require("../contenedor");
+const Contenedor = require("../src/database/contenedor");
 const Usuario = require("../schema/schemaUsuarios");
 
 class UsuarioDao extends Contenedor {

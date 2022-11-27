@@ -1,4 +1,4 @@
-const Contenedor = require("../contenedor");
+const Contenedor = require("../src/database/contenedor");
 const Message = require("../schema/schemaMensajes");
 
 class MessageDao extends Contenedor {
